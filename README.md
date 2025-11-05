@@ -3,11 +3,11 @@
 .
 ├─ Networks/          # Datasets
 │   ├─ real/          # Real-world networks (facebook, vidal, powergrid…)
-│   └─ training/     # Training graphs (BA)
+│   └─ training/      # Training graphs (BA)
 │
-├─ SIR_results/       # SIR simulation labels 
+├─ SIR_results/       # SIR simulation labels
 │
-├─ results/           # Experimental Results(json)
+├─ results/           # Experimental Results (json)
 │
 ├─ main.py            # Main script – train / test
 ├─ getSirLabel.py     # Run SIR → save infection-curve labels
